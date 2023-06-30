@@ -1,0 +1,20 @@
+.Calculator_Frame{
+    /* display: flex;
+    flex-direction: row; */
+    align-items: normal;
+    justify-content: space-around;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+}
+.textview{
+    width: 130px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin: 5px 5px;
+}
+.stylebutton{
+display: flex;
+}
